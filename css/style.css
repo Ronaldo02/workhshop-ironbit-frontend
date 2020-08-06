@@ -1,0 +1,67 @@
+body{
+background: linear-gradient(135deg, rgba(161,255,66,1) 0%, rgba(104,235,173,1) 25%, rgba(61,219,255,1) 44%);
+margin: 0;
+height: 100%;
+background-attachment: fixed;
+
+}
+
+h2{
+	font-family: arial;
+}
+input{
+	font-family: arial;
+	text-decoration: none;
+    padding: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: transparent;
+    font:arial;
+    outline: 0;
+  	border-width: 0 0 2px;
+  	border-color: #454545;
+}
+button{
+	font-family: arial;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius:0px;
+    border: 2px solid #0016b0;
+  }
+
+table{
+	font-family: arial;
+}
+td{
+	border-radius: 6px;
+}
+
+.td-desc-img{
+    background-color: #FFFFFF;
+    height: 50px; 
+    width: 700px;
+}
+
+
+.td-cabecera{
+    background-color: #B7EE30;
+    height:50px;
+    width:700px;
+}
+
+.clean-tasks{
+    height:25px;
+    width:25px;
+}
+
+.clean-all-tasks{
+    height:20px;
+    width:20px;
+}
+
+h4{
+    text-align: center;
+}
